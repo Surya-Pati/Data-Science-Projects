@@ -71,7 +71,7 @@ This project applies machine learning techniques to model these relationships an
 
 1. Install dependencies:  
    ```bash
-   pip install xgboost pandas numpy scikit-learn matplotlib seaborn
+   %pip install xgboost pandas numpy scikit-learn matplotlib seaborn
    ```
 
 2. Open the notebook:  
