@@ -54,7 +54,7 @@ Analyzed sales performance, profitability, and customer trends and built a Dashb
 Built a Dashboard in Tableau to gain insights into performance trends, consistency & impact and to support decision-making amongst selectors, analysts and fans.
 
 ---
-### Predicting EV Battery Blast Risks Using Sensors and Design Parameters.
+### Predicting EV Battery Blast Risks Using Sensors and Design Parameters
 **File:** `XGBoost_Blast_Prediction.ipynb`  
 **Summary:**  
 Implemented an XGBoost model to predict blast outcomes using sensors and design parameters. The project demonstrates Machine Learning, EDA, Data Wrangling techniques.
