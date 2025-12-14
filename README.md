@@ -75,7 +75,7 @@ Implemented an XGBoost model to predict blast outcomes using sensors and design 
 To Clone the repository simply use the following command:
 
 ```bash
-git clone https://github.com/Surya-Pati/Data-Science-Projects
+git clone https://github.com/Surya-Pati/Data-Science-Projects.git
 ```
 Open the respective project file (.ipynb, .pbix, .twb, .xlsx) to review the analysis, methodology, and outputs.
 
