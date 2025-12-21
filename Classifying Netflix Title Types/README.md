@@ -82,8 +82,8 @@ The analysis highlights how metadata can be leveraged to support content categor
 
 This project demonstrates capabilities in:
 - Supervised learning and classification  
-- Feature engineering and preprocessing  
-- Model evaluation and comparison  
+- Feature preprocessing  
+- Model evaluation
 - Data‑driven insights for content categorization  
 
 ---
