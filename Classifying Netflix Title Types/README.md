@@ -1,4 +1,4 @@
-# Netflix Type Classification
+# Classifying Netflix Title Types
 
 This project applies supervised machine learning techniques to classify Netflix titles as either *Movies* or *TV Shows* based on metadata features. The objective is to demonstrate classification model development, and evaluation in a real‑world entertainment dataset.
 
