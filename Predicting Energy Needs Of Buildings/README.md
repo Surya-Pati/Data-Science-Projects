@@ -1,4 +1,4 @@
-# Energy Consumption Regression
+# Predicting Energy Needs Of Buildings
 
 This project develops regression models to predict two variables heating load and cooling load of buildings based on their dimension & materials. The objective is to apply regression models in real-life dataset.
 
