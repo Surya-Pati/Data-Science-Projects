@@ -22,7 +22,7 @@ Market basket analysis is a common technique in retail analytics used to identif
 ## Dataset
 
 - **Source:** Grocery transaction dataset (publicly available or provided)  
-- **Features:** Custommer IDs, item names, purchase date  
+- **Features:** Customer IDs, item names, purchase date  
 - **Target:** Identification of frequent itemsets and association rules
 
 ---
