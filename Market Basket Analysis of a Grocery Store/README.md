@@ -61,8 +61,7 @@ Market basket analysis is a common technique in retail analytics used to identif
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Scikit‑learn  
-- mlxtend (for Apriori and FP‑Growth)  
+- mlxtend (for Apriori, TransactionalEncoder)  
 
 ---
 
@@ -70,7 +69,7 @@ Market basket analysis is a common technique in retail analytics used to identif
 
 1. Install dependencies:  
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn mlxtend
+   pip install pandas numpy matplotlib seaborn mlxtend
    ```
 2. Open the notebook:  
   `Grocery_Dataset_Market_Basket_Analysis.ipynb`
