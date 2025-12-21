@@ -39,12 +39,10 @@ This project leverages clustering algorithms to uncover hidden patterns and prov
    - Visualization of customer attributes  
 
 3. **Clustering Models**  
-   - K‑Means clustering  
-   - Hierarchical clustering  
-   - DBSCAN for density‑based segmentation  
+   - K‑Means clustering    
 
 4. **Evaluation and Insights**  
-   - Silhouette score and cluster validation  
+   - Silhouette score and Elbow method 
    - Profiling of customer segments  
    - Business recommendations  
 
