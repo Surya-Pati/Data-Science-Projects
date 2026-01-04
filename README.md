@@ -60,6 +60,12 @@ Built a Dashboard in Tableau to gain insights into performance trends, consisten
 Implemented an XGBoost model to predict blast outcomes using sensors and design parameters. The project demonstrates Machine Learning, EDA, Data Wrangling techniques.
 
 ---
+### HR Attrition Analytics Dashboard  
+**File** HR_Attrition_Analytics_Dashboard.twbx  
+**Summary:**  
+Built a Dashboard in Tableau to analyze employee attrition trends, demographics, and key drivers of turnover. Provides insights into workforce consistency, satisfaction, and retention strategies to support decision‑making for HR teams and business leaders.
+
+---
 
 ## Technologies and Tools
 
