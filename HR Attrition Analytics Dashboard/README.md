@@ -65,7 +65,7 @@ The dashboard enables stakeholders to explore attrition rates, demographic break
 ## How to Run
 
 - Open the file:  
-  `HR_Attrition_Analytics_Dashboard.twbx`
+  `HR_Attrition_Analytics_Dashboard.twb`
 
 - Use the interactive dashboard tabs and filters to explore attrition trends and workforce insights.
 
