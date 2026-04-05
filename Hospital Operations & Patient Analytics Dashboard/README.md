@@ -85,7 +85,7 @@ Activated by clicking any department on Page 1. Filters all visuals to the selec
 - Bed Utilization % gauge (capped at 100%)
 - Patient Rating distribution donut
 
-### Page 3 — Patient & Staff Analysis
+### Page 3 — Patient Analysis
 Operational deep-dive for resource planning and cost analysis.
 - KPI cards: Total Patients, Avg LOS, Total Staff, Avg Patient Load per Staff
 - Treatment Cost vs Total Patients scatter (cost distribution by department)
